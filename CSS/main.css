@@ -22,6 +22,7 @@ a {color: #0073ff;}
 a:visited{color: #65b1ff;}
 header {
   font-family: 'Open Sans', sans-serif;
+  width:100%
   background: rgb(235,235,235) url(../Photos/gate_median_crop.jpg) no-repeat center bottom; position: relative;
 }
 
