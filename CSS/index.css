@@ -1,0 +1,11 @@
+/*.image {
+  background-image: url(../Photos/gate_median_crop.jpg);
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-size: 100%;
+}*/
+.image {
+	width: 100%;
+	margin: 0px;
+	overflow: hidden;
+} 
